@@ -1,0 +1,2 @@
+#show-small{z-index:1}#small-nav{background-color:brown;flex-direction:column;justify-content:center;align-items:center;width:100%;display:flex}@media (width<=768px){#contai{flex-flow:row;justify-content:space-between;align-items:center;padding-top:.6rem;display:flex}#inv-logo{text-align:center;margin-top:1.2rem;margin-bottom:.5rem}#inv-nav{margin-left:1rem;margin-right:1rem}}@media screen and (width<=575px){.first-view-main{margin-top:42rem}}
+/*# sourceMappingURL=index.ebe9212d.css.map */
